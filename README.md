@@ -1,6 +1,6 @@
 ### Ciao 👋
 
-I am Daniele, a prototyper based in Stockholm 🇸🇪
+I am Daniele, a design technologist based in Stockholm 🇸🇪
 
 🔥I am currently working with (_and for_) [**Another Tomorrow**](http://anothertomorrow.io). I like Web, Design and making things with Arduino and Raspberry Pi.
 
