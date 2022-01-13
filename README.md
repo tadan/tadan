@@ -8,4 +8,4 @@ I am Daniele, a design technologist based in Stockholm 🇸🇪
 
 🐦Ask me about Italian Food and Snowboard in a tweet to [tadan_](http://twitter.com/@tadan_)
 
-🔭This readme is connected to my website see who really [Daniele.is](https://daniele.is)
+🔭This readme is connected to my website, see who really [Daniele.is](https://daniele.is)
