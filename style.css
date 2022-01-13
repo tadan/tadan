@@ -5,9 +5,9 @@
 
     /* Color scheme */
 
-    --textcolor: #121212;
-    --bgcolor: #fff;
-    --highlight: #2749c9;
+    --textcolor: #1d3557;
+    --bgcolor: #f1faee;
+    --highlight: #e63946;
 }
 
 @media (prefers-color-scheme: dark) {
