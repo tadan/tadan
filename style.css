@@ -20,7 +20,7 @@
 
 body {
     font-size: 18px;
-    font-family: system-ui, sans-serif;
+    font-family: 'M PLUS 2', sans-serif; /* 'M PLUS available in 300, 500 and 700 */
     line-height: 1.4;
     color: var(--textcolor);
     background: var(--bgcolor);
@@ -65,6 +65,7 @@ header {
 
 header h1 {
     font-size: 1em;
+    font-weight: 700;
     flex: 1; /* pushes nav to the right */
     white-space: nowrap;
     padding: 0 5vw 0.5em 0;
