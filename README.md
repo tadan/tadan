@@ -7,3 +7,5 @@ I am Daniele, a design technologist based in Stockholm 🇸🇪
 🌊 Previously worked with Liquid Studio helping different companies moving towards the digital, see my contribution [here](http://github.com/liquid-tadan)
 
 🐦Ask me about Italian Food and Snowboard in a tweet to [tadan_](http://twitter.com/@tadan_)
+
+🔭This readme is connected to my website, see who really [Daniele.is](https://daniele.is)
