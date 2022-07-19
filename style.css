@@ -417,7 +417,11 @@ article time {
     height: 100vh;
     object-fit: cover;
 }
+/* ------- Stories ------- */
 
+.beluga em {
+    text-indent: 50px;
+}
 /* ------- Lightbox ------- */
 
 .lightbox {
