@@ -1,6 +1,6 @@
 ### Ciao 👋
 
-I am Daniele, a designer & technologist based in Stockholm 🇸🇪
+I am Daniele, a designer & technologist based in 🇸🇪
 
 **Design systems are my passion** – I love building scalable, consistent UI foundations that empower teams and create great user experiences.
 
