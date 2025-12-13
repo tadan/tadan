@@ -1,6 +1,6 @@
 ### Ciao 👋
 
-I am Daniele, a designer & technologist based in 🇸🇪
+I am Daniele, an AI-driven design engineer based in 🇸🇪
 
 When not on the computer, I run a business about Food Experiences that spins around [Cuppino](https://cuppino.it)
 
